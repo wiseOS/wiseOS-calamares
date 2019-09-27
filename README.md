@@ -1,0 +1,2 @@
+# WiseOs Calamares configuration
+
